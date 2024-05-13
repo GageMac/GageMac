@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gage Machado</h1>
 <h3 align="center">A passionate Software Engineer from California</h3>
 
-- 🌱 I’m currently learning **Java and SpringBoot**
-
 - 👨‍💻 All of my projects are available at [https://github.com/GageMac](https://github.com/GageMac)
-
-- 💬 Ask me about **react, Python and SQL.**
 
 - 📫 How to reach me **gagemachado@gmail.com**
 
